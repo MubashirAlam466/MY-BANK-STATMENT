@@ -1,0 +1,22 @@
+th{
+    text-align: left;
+}
+.one{
+    background-color: lightskyblue;
+    width: 500px;
+    height: 20px;
+    empty-cells: hide;
+}
+.Two{
+    background-color: lightsteelblue;
+    width: 500px;
+    empty-cells: hide;
+}
+div{
+    border: 3px solid black;
+    width: 1000px;
+    margin: 1px;
+    padding: 25px;
+    position: absolute;
+    right: 160px;
+}
